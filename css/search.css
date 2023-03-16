@@ -50,3 +50,17 @@ body {
 .input:focus {
     outline: none;
 }
+
+.homeButton {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.homeButton a {
+    color: #ffffff;
+}

@@ -58,3 +58,17 @@ body {
   }
 
 }
+
+.homeButton {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  text-transform: uppercase;
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.homeButton a {
+  color: #000000;
+}
