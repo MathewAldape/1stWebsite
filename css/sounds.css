@@ -23,6 +23,10 @@ body {
     font-size: 1.2rem;
 }
 
+.btn:hover {
+    opacity: 0.9;
+}
+
 .homeButton {
     position: fixed;
     top: 20px;
