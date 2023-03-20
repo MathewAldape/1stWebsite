@@ -45,6 +45,7 @@ body {
 .homeButton {
     position: fixed;
     top: 10px;
+    align-items: center;
     left: 10px;
     text-transform: uppercase;
     color: #ffffff;
