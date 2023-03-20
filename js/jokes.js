@@ -9,5 +9,5 @@ async function generateJoke(){
     })
 
     const data = await response.json()
-    jokeEl.innerHTML
+    jokeEl.innerHTML = data.joke
 }
