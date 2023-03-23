@@ -19,7 +19,8 @@ body {
     align-items: flex-end;
     justify-items: center;
     margin: 10;
-    wrap-content:
+    /* text-wrap: */
+    wrap:
 }
 
 .rect {
