@@ -19,6 +19,11 @@ body {
     width: 16px;
     margin: 2px;
     background-color: #fdfdfd;
+    transition: 2s ease;
+}
+
+.square:hover {
+    transition-duration: 0s;
 }
 
 
