@@ -61,7 +61,7 @@ body {
 }
 
 @media (max-width: 580px) {
-    body {
-        
+    .rect {
+        width: 42.5vw;
     }
 }
