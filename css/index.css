@@ -23,13 +23,21 @@ body {
 .rect {
     margin: 10px;
     height: 120px;
-    width: 12.5vw;
+    width: 22.5vw;
     background-color: #111111;
     border-radius: 10px;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.top {
+    bottom: 25vh;
+}
+
+.bottom {
+    right: 95vw;
 }
 
 .hello {
