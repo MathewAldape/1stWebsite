@@ -14,7 +14,8 @@ body {
     display: flex;
     position: absolute;
     width: 97.5vw;
-    height: 100vh;
+    top: 50vh;
+    height: 50vh;
     align-items: flex-end;
     justify-items: center;
     margin: 10;
