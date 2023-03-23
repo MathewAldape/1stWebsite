@@ -59,9 +59,3 @@ body {
     color: #ffffff;
     padding-right: 20px;
 }
-
-@media (max-width: 580px) {
-    .rect {
-        width: 42.5vw;
-    }
-}
