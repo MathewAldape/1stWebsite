@@ -19,6 +19,7 @@ body {
     align-items: flex-end;
     justify-items: center;
     margin: 10;
+    wrap-content:
 }
 
 .rect {
