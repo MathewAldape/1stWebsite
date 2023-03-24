@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
-    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    background-color: darksalmon;
     display: flex;
+    flex-direction: column;
     height: 100vh;
     align-items:center;
     justify-content: center;
@@ -13,11 +17,11 @@ body {
     top: 20px;
     left: 20px;
     text-transform: uppercase;
-    color: #000;
+    color: #fff;
     font-size: 20px;
     text-decoration: none;
 }
 
 .homeButton a {
-    color: #000;
+    color: #fff;
 }
